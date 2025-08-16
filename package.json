@@ -1,7 +1,7 @@
 {
-  "name": "PK-XMD",
+  "name": "𝕯𝖆𝖗𝖐_𝕭𝖔𝖞-MD",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By pkdriller",
+  "description": "𝕵𝖚𝖓𝖎𝖔𝖗𝖉𝖆𝖗𝖐",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name PK-XMD",
